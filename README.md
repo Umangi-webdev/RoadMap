@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/github/stars/Umangi-webdev/RoadMap?style=for-the-badge">
 <img src="https://img.shields.io/github/forks/Umangi-webdev/RoadMap?style=for-the-badge">
 <img src="https://img.shields.io/github/last-commit/Umangi-webdev/RoadMap?style=for-the-badge">
-<img src="https://img.shields.io/github/license/Umangi-webdev/RoadMap?style=for-the-badge">
 
 </p>
 
